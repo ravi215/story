@@ -1,4 +1,2 @@
-Here I learning how to use git to your project ..
- 
+I m here changing the file to check wether app is running or not 
 
-M learning but slightly slow.
